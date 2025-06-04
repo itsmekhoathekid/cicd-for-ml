@@ -3,4 +3,3 @@ black
 scikit-learn
 skops
 matplotlib
-tqdm
