@@ -2,4 +2,4 @@
 github actions for automating training, evaluation, and deploying models
 
 
-meomeo <3 :3
+# meomeo <3 :3
